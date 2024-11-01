@@ -2,7 +2,7 @@
 
 ## About this Repository
 
-This is the Ministry of Justice [NVVS CloudOps teams](https://ministryofjustice.github.io/nvvs-devops) public repository for our documentation.
+This is the Ministry of Justice [CloudOps teams](https://ministryofjustice.github.io/nvvs-devops) public repository for our documentation.
 
 ## Contents
 - [Architecture Decision Record (ADR)](architecture-decision-record) A record of the technical decisions made by the team.
